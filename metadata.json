@@ -1,0 +1,6 @@
+{
+  "name": "DecoyTrace",
+  "description": "Cyber-orange glass cybersecurity deception platform and blockchain-inspired incident integrity ledger. Deceive. Detect. Defend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
